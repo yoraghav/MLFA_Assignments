@@ -1,0 +1,14 @@
+ASSIGNMENT 7
+
+Submitted by :- 
+ Raghav Aggarwal 20EC10064
+ Rudransh Gupta 20EE30036
+ Parv Jain 20IE10048
+ Adarsh Jha 20CH30003
+ Darpan Aswal 20EC10026
+ Harsh Gupta 20CH10021
+
+
+Linear Regression Model : 0.7735849056603774
+Lasso Regression Model : 0.6981132075471698
+Ridge Regression Model : 0.7924528301886793

@@ -1,0 +1,18 @@
+ASSIGNMENT 2 
+
+Submitted by :- 
+ Raghav Aggarwal 20EC10064 (Team Leader)
+ Rudransh Gupta 20EE30036
+ Parv Jain 20IE10048
+ Adarsh Jha 20CH30003
+ Darpan Aswal 20EC10026
+ Harsh Gupta 20CH10021
+
+Note : The dataset gets shuffled on each run, hence the accuracy might change with each run.
+
+Results : 
+
+Accuracy in training data using self made model - 82.8125%
+Accuracy in test data using self made model - 75.0%
+Accuracy in training data using scikit logistic regression made model - 100.0%
+Accuracy in test data using scikit logistic regression model - 87.5%

@@ -1,0 +1,31 @@
+ASSIGNMENT 2 
+
+Submitted by :- 
+ Raghav Aggarwal 20EC10064 (Team Leader)
+ Rudransh Gupta 20EE30036
+ Parv Jain 20IE10048
+ Adarsh Jha 20CH30003
+ Darpan Aswal 20EC10026
+ Harsh Gupta 20CH10021
+
+For question 1:
+Part 1: 
+Accuracy with decision tree model : 55.556%
+Accuracy with Random forest model : 66.667%
+
+
+For question 2: 
+
+Accuracy with decision tree model : 
+
+Accuracy with max_depth  20  :  87.22857142857143  %
+Accuracy with max_depth  30  :  86.83428571428571  %
+Accuracy with max_depth  40  :  87.18857142857142  %
+Accuracy with max_depth  50  :  86.81142857142858  %
+
+Accuracy with random forest model : 
+
+Accuracy with max_depth  20  :  96.85714285714285  %
+Accuracy with max_depth  30  :  96.7942857142857  %
+Accuracy with max_depth  40  :  96.8  %
+Accuracy with max_depth  50  :  96.76571428571428  %

@@ -1,0 +1,31 @@
+ASSIGNMENT 5
+
+Submitted by :- 
+ Raghav Aggarwal 20EC10064 (Team Leader)
+ Rudransh Gupta 20EE30036
+ Parv Jain 20IE10048
+ Adarsh Jha 20CH30003
+ Darpan Aswal 20EC10026
+ Harsh Gupta 20CH10021
+
+(NOTE : All accuracies are in mean squared error terms. For graphs please refer to the .ipynb file)
+
+For XGBoost - 
+
+Accuracy with  0 lag =  0.1559297335925728
+Accuracy with  1 lag =  0.1715779464728672
+Accuracy with  2 lag =  0.163641420343375
+
+For SVM - 
+
+Accuracy with  0 lag =  0.16555593232452565
+Accuracy with  1 lag =  0.16072307089239934
+Accuracy with  2 lag =  0.1629951282813806
+
+For SVM with grid search (kernels used = linear, polynomial , radial basis function (ref), sigmoid) - 
+
+Accuracy with  0 lag =  0.14223290343694162     	 (linear)
+Accuracy with  1 lag =  0.14082949346024873     	 (linear)
+Accuracy with  2 lag =  0.15580444325703607     	 (linear)
+
+(For all three cases linear kernel performed the best)

@@ -1,0 +1,19 @@
+ASSIGNMENT 6
+
+Submitted by :- 
+ Raghav Aggarwal 20EC10064 (Team Leader)
+ Rudransh Gupta 20EE30036
+ Parv Jain 20IE10048
+ Adarsh Jha 20CH30003
+ Darpan Aswal 20EC10026
+ Harsh Gupta 20CH10021
+
+For Single Model - 
+
+Train Accuracy = 0.4709418837675351
+Test Accuracy =  0.48
+
+For Complete Model - 
+
+Train Accuracy =  0.4939879759519038
+Test Accuracy =  0.55
